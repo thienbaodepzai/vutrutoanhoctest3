@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix MathVerse – Vũ trụ Toán học test 2",
+  "description": "Nền tảng học và luyện tập Toán tương tác cho học sinh THCS (lớp 6, 7, 8, 9) với MathBot AI, thử thách vui nhộn và ôn tập thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
